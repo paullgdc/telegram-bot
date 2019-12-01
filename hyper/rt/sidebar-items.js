@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["spawn","Spawns a future on the default executor."]],"trait":[["Future","A future represents an asynchronous computation."],["Stream","A stream of values produced asynchronously."]]});
